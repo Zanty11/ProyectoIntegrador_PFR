@@ -1,6 +1,7 @@
 Avanzar con los siguientes puntos:
 
-- Trabajo poblar Base de datos
-  - Opción 1: Usando Scripts SQL (generados desde Scala)
-  - Opción 2: Sentencias INSERT INTO a través de librería (Scala)
+- Poblar base de datos
+  - Opción 1: Usando Script SQL (generados de Scala)
+  - Opción 2: Sentencias INSERT INTO a través de librería doobie (Scala)
 - Documentar proceso en archivo README
+- Subir/actualizar código de la solución en repositorio (excluir archivos CSV). 
